@@ -7,4 +7,7 @@ class ApplicationController < ActionController::Base
 
   def edit
   end
+
+  def create
+  end
 end
